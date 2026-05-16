@@ -114,7 +114,6 @@ INITIAL, IDLE, MOVE_UP, MOVE_DOWN, ARRIVE, DOOR_OPEN, DOOR_CLOSE, and ESTOP.
 /images
   ├── block_diagram.png
   ├── fsm_diagram.png
-  ├── timing_diagrams.png
 
 /docs
   ├── elevator_report.pdf
