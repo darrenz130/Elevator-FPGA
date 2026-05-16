@@ -107,9 +107,10 @@ INITIAL, IDLE, MOVE_UP, MOVE_DOWN, ARRIVE, DOOR_OPEN, DOOR_CLOSE, and ESTOP.
 <pre>
 /vhdl
   ├── elevator_top.vhd
-  ├── controller_fsm.vhd
-  ├── clk_div.vhd
+  ├── floor_manager.vhd
+  ├── preScalar.vhd
   ├── display_driver.vhd
+  ├── schedular.vhd
 
 /images
   ├── block_diagram.png
